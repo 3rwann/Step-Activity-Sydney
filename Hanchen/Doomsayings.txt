@@ -1,0 +1,31 @@
+Doomsayings prepared by Hanchen
+List of key milestones
+
+W5: Assignment 1 Ethical assessment
+1. Our ethical assessment may fail to address a crucial bias, causing a flawed foundation of the entire project.
+-	Careful evaluations should be made by all members to ensure nothing important is missed.
+-	As the team was just formed, there might be conflictions between team members.
+2. Any conflinctions should be resolved as soon as possible openly. 
+-	If other team members cannot help, tutor would be asked to intervene the conflinction to avoid the delay of project.
+
+
+W8: Assignment 2 Checkpoint 1 Initial data exploration
+1. If the team realizes that the dataset is incomplete, how will this get resolved to ensure the integrity and reliability of conclusion?
+-	No missing values were found with all given datasets.
+
+
+W10: Assignment 2 Checkpoint 2 Detail analysis and visualization
+1. One team member may misunderstand the visualizations and report the incorrect result to the team.
+-	Code review should be held between team members to ensure everyone is on track.
+
+
+W12: Assignment 2 Checkpoint 3 Reflection
+No doomsayings needed.
+
+
+W13: Final Jupyter Notebook Product
+1. Our product may not be versatile enough to include everyone's main findings.
+-	Each team member should express his idea about the final product as clear as possible.
+2. The product may overdue if the cooperation and time management in the team is not efficient enough.
+-	The group meeting should be held weekly and work is allocated reasonably to each member. 
+-	Any obstacles should be solved or removed as soon as possible.
